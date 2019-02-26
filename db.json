@@ -1,0 +1,38 @@
+[
+  {
+    "question":"Is Elon Musk a Human?",
+    "answer":"false"
+  },
+    {
+    "question":"Is the earth bigger than the Sun?",
+    "answer":"false"
+  },
+    {
+    "question":"Do humans live for more than 400 years?",
+    "answer":"false"
+  },
+    {
+    "question":"Is the color of the Sun as seen on earth blue?",
+    "answer":"false"
+  },
+    {
+    "question":"Are you a human?",
+    "answer":"true"
+  },
+    {
+    "question":"Is pizza healthy?",
+    "answer":"false"
+  },
+    {
+    "question":"Is flutter awesome?",
+    "answer":"true"
+  },
+  {
+    "question":"Is the sun a medium-sized star?",
+    "answer":"true"
+  },
+  {
+    "question":"Is the dog man's best friend?",
+    "answer":"true"
+  }
+]
